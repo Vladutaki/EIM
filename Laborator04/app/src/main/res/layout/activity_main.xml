@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/buton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#252525"
+            android:text="SHOW ADDITIOMNAL FIELDS"
+            android:layout_marginStart="170dp"
+            style="@style/custom_button"/>
+
+        <EditText
+            android:id="@+id/edit_text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Name"/>
+
+        <EditText
+            android:id="@+id/edit_text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="1122334455"
+            android:enabled="false"/>
+
+        <EditText
+            android:id="@+id/edit_text3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Email" />
+
+        <EditText
+            android:id="@+id/edit_text4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Address" />
+        <EditText
+            android:id="@+id/edit_text5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Job Title" />
+        <EditText
+            android:id="@+id/edit_text6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Company" />
+        <EditText
+            android:id="@+id/edit_text7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="Website" />
+        <EditText
+            android:id="@+id/edit_text8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#c1c1c1"
+            android:text="IM" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="120dp">
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SAVE"
+                    android:textColor="#252525" />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="CANCEL"
+                    android:textColor="#252525" />
+        </LinearLayout>
+
+</LinearLayout>
