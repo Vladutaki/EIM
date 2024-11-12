@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ro.pub.systems.eim.lab02.activitylifecyclemonitor.app-mergeDebugResources-3:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

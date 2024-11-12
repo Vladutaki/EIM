@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/364576d81b581032a57e5659234e2d84/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/f051b99df0be88f15d244fa2eec9d89a/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/cab158fe960ae03a04fbceb5408dc200/transformed/support-v4-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/d1226c8dd6aaea06abb3e63b6130690a/transformed/support-fragment-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/735142f609e667485834fa55fba7b54c/transformed/support-media-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/857132b832444a33d9b45cdf3ad050b6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/a4372c0fc00e4ebd8f6d798dcc3cf699/transformed/support-core-ui-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/7d05ffaf0944862c1ff867ebdfefe2c0/transformed/support-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+	package
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:3:5-64
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:5:5-19:19
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/364576d81b581032a57e5659234e2d84/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/364576d81b581032a57e5659234e2d84/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/f051b99df0be88f15d244fa2eec9d89a/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/f051b99df0be88f15d244fa2eec9d89a/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/cab158fe960ae03a04fbceb5408dc200/transformed/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/cab158fe960ae03a04fbceb5408dc200/transformed/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/d1226c8dd6aaea06abb3e63b6130690a/transformed/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/d1226c8dd6aaea06abb3e63b6130690a/transformed/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/735142f609e667485834fa55fba7b54c/transformed/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/735142f609e667485834fa55fba7b54c/transformed/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/857132b832444a33d9b45cdf3ad050b6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/857132b832444a33d9b45cdf3ad050b6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/a4372c0fc00e4ebd8f6d798dcc3cf699/transformed/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/a4372c0fc00e4ebd8f6d798dcc3cf699/transformed/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/7d05ffaf0944862c1ff867ebdfefe2c0/transformed/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/7d05ffaf0944862c1ff867ebdfefe2c0/transformed/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+	android:extractNativeLibs
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:11:9-40
+activity#ro.pub.systems.eim.lab02.activitylifecyclemonitor.graphicuserinterface.LifecycleMonitorActivity
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:12:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/364576d81b581032a57e5659234e2d84/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/364576d81b581032a57e5659234e2d84/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/f051b99df0be88f15d244fa2eec9d89a/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/f051b99df0be88f15d244fa2eec9d89a/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/cab158fe960ae03a04fbceb5408dc200/transformed/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/cab158fe960ae03a04fbceb5408dc200/transformed/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/d1226c8dd6aaea06abb3e63b6130690a/transformed/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/d1226c8dd6aaea06abb3e63b6130690a/transformed/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/735142f609e667485834fa55fba7b54c/transformed/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/735142f609e667485834fa55fba7b54c/transformed/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/857132b832444a33d9b45cdf3ad050b6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/857132b832444a33d9b45cdf3ad050b6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/a4372c0fc00e4ebd8f6d798dcc3cf699/transformed/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/a4372c0fc00e4ebd8f6d798dcc3cf699/transformed/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/7d05ffaf0944862c1ff867ebdfefe2c0/transformed/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/7d05ffaf0944862c1ff867ebdfefe2c0/transformed/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/vladutaki/.gradle/caches/8.10.2/transforms/0563f28b252c51bc6283d4a99e21fe3f/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator02/labtasks/ActivityLifecycleMonitor/app/src/main/AndroidManifest.xml
