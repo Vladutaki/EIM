@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5792a828-1905-42de-bd2f-1792cac29caa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labtasks/BoundedService/BoundedServiceActivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/BoundedService/BoundedServiceActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService - Kotlin/startedService/app/src/main/java/ro/pub/cs/systems/eim/lab05/startedservice/StartedService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService - Kotlin/startedService/app/src/main/java/ro/pub/cs/systems/eim/lab05/startedservice/StartedService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedService/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/labtasks/StartedService/StartedServiceActivity/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/BoundedService/BoundedServiceActivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/BoundedService/BoundedServiceActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/StartedService/StartedService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/StartedService/StartedService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/StartedService/StartedServiceActivity/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,28 +21,29 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oCy85SKHHe9oMcNMv7wZrqZJG7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/vladutaki/Desktop/Facultate/EIM/Laborator05"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vladutaki/Desktop/Facultate/EIM/Laborator05&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
