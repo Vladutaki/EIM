@@ -1,0 +1,714 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.12.0] /home/vladutaki/.gradle/caches/8.9/transforms/89f3d2b7ee3ed2670febaca70f9e8747/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/152a3c40664f81ab3fe0cfe7b76ae3d5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/049bccb06eb03088ccb1d6ec45da042f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/d1ff27523b1c1c872b5c2814888de03f/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4da066c68304aebaf26f7fca3a853ec4/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/a33c7e274135b5b3a5317a0f2d4e53bd/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/ae86a81094a027b5ea5dc6ccdae53ec4/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/0289f30a7134651872adb8a0e3be2e15/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/5b5d2c9eb4fb998f3db73e544f4798c8/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/vladutaki/.gradle/caches/8.9/transforms/23ec914148a9a2923811c25904752008/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/fed40c326c2ef68c3e0053e82d1113f4/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/b4e3d5fc3f62e54a03ea1f25255a522a/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/e30b7c571bc237477d19d40bbdaae7f4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/53f88e89dbdadbe88b23dab35a835f8e/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/449f4e1b8fef849d85f709e598a5605d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/607044a09826f23375a6efb7b18b4540/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ab1039cc184e44febb6041720655c9e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/e40a23722dacfbf0a00717de32563b95/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/46d0bb59d63e18c7f2753c8cf7fa59f0/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/5a62d4808e9fcb6aab1c25b5d8d1987c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ed94f85c18d7a0b30f4844dbd71ba63c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/223eb474a2cfe3f33fb40225f29080ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/931ebaad9d3eb9ff4d65349adc384dd0/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/2917db795f493a5e5d62b3b51a75330f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/818e40619f3612a2e973b89aa00412ea/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/91e0804aebcaa388086ff08b582db127/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/87d3c6b691b89367b1946f9c28bac6ac/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/a8bc85904158e3ce02731141d4224102/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/ceb9400c7ac336133fecdefa06517174/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/101c87d50f962d59dcf8d6d351bab80a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/388c73306e77c7460b49347e066ac214/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vladutaki/.gradle/caches/8.9/transforms/2e7c5c0d8c167856ff7d105214f1139d/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/943ab9bebf442085940a5b9bc9349afe/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vladutaki/.gradle/caches/8.9/transforms/d10cb391417f98cb02ac46a0415233e1/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.3] /home/vladutaki/.gradle/caches/8.9/transforms/71ffe82a05491a4afe5dca1a67149919/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/54556c6b759455636ebb7e518900958a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/25164533577a4994ead29d3bc490e6a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/8333439417f9d686b6b5085535a3c146/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/965bf3fc76f102452eeb4aef74768720/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4b12a0d585c1f665f5969e33d4d7265b/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/6420ebb1aa51e9c39b06b433be969c80/transformed/transport-api-3.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e2b6712657771834ddb5af7039676e11/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/034beaa579242ce3454b2234b3b86619/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/059631e4df01657266b4b5dea0e0209b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/6b840db2b9609f3a691bb9377ca4441d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/c563b8ecfacca9cf441b4bf1d98cd314/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/3c24be512bf213b152964523909ada8d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/0ee8958588afe8dc43f573d96a9eb2d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:6:22-74
+application
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:8:5-36:19
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.google.android.material:material:1.12.0] /home/vladutaki/.gradle/caches/8.9/transforms/89f3d2b7ee3ed2670febaca70f9e8747/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/vladutaki/.gradle/caches/8.9/transforms/89f3d2b7ee3ed2670febaca70f9e8747/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/152a3c40664f81ab3fe0cfe7b76ae3d5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/152a3c40664f81ab3fe0cfe7b76ae3d5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/a33c7e274135b5b3a5317a0f2d4e53bd/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/a33c7e274135b5b3a5317a0f2d4e53bd/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/ae86a81094a027b5ea5dc6ccdae53ec4/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/ae86a81094a027b5ea5dc6ccdae53ec4/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/0289f30a7134651872adb8a0e3be2e15/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/0289f30a7134651872adb8a0e3be2e15/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/5b5d2c9eb4fb998f3db73e544f4798c8/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/5b5d2c9eb4fb998f3db73e544f4798c8/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/vladutaki/.gradle/caches/8.9/transforms/23ec914148a9a2923811c25904752008/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/vladutaki/.gradle/caches/8.9/transforms/23ec914148a9a2923811c25904752008/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/fed40c326c2ef68c3e0053e82d1113f4/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/fed40c326c2ef68c3e0053e82d1113f4/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/943ab9bebf442085940a5b9bc9349afe/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/943ab9bebf442085940a5b9bc9349afe/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/034beaa579242ce3454b2234b3b86619/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/034beaa579242ce3454b2234b3b86619/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:16:9-46
+	android:dataExtractionRules
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:10:9-65
+activity#ro.pub.cs.systems.eim.firebase.MainActivity
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:24:27-74
+service#ro.pub.cs.systems.eim.firebase.CustomFirebaseMessagingService
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:31:13-43
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:29:13-59
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:32:13-34:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml:33:25-75
+uses-sdk
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /home/vladutaki/.gradle/caches/8.9/transforms/89f3d2b7ee3ed2670febaca70f9e8747/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/vladutaki/.gradle/caches/8.9/transforms/89f3d2b7ee3ed2670febaca70f9e8747/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/152a3c40664f81ab3fe0cfe7b76ae3d5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/152a3c40664f81ab3fe0cfe7b76ae3d5/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/049bccb06eb03088ccb1d6ec45da042f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/049bccb06eb03088ccb1d6ec45da042f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/d1ff27523b1c1c872b5c2814888de03f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/vladutaki/.gradle/caches/8.9/transforms/d1ff27523b1c1c872b5c2814888de03f/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4da066c68304aebaf26f7fca3a853ec4/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4da066c68304aebaf26f7fca3a853ec4/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/a33c7e274135b5b3a5317a0f2d4e53bd/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/a33c7e274135b5b3a5317a0f2d4e53bd/transformed/firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/ae86a81094a027b5ea5dc6ccdae53ec4/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/ae86a81094a027b5ea5dc6ccdae53ec4/transformed/firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/0289f30a7134651872adb8a0e3be2e15/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/0289f30a7134651872adb8a0e3be2e15/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/5b5d2c9eb4fb998f3db73e544f4798c8/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/5b5d2c9eb4fb998f3db73e544f4798c8/transformed/play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/vladutaki/.gradle/caches/8.9/transforms/23ec914148a9a2923811c25904752008/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/vladutaki/.gradle/caches/8.9/transforms/23ec914148a9a2923811c25904752008/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/fed40c326c2ef68c3e0053e82d1113f4/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/fed40c326c2ef68c3e0053e82d1113f4/transformed/play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/b4e3d5fc3f62e54a03ea1f25255a522a/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/b4e3d5fc3f62e54a03ea1f25255a522a/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/e30b7c571bc237477d19d40bbdaae7f4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/e30b7c571bc237477d19d40bbdaae7f4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/53f88e89dbdadbe88b23dab35a835f8e/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/53f88e89dbdadbe88b23dab35a835f8e/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/449f4e1b8fef849d85f709e598a5605d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/449f4e1b8fef849d85f709e598a5605d/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/607044a09826f23375a6efb7b18b4540/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/607044a09826f23375a6efb7b18b4540/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ab1039cc184e44febb6041720655c9e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ab1039cc184e44febb6041720655c9e7/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/e40a23722dacfbf0a00717de32563b95/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/e40a23722dacfbf0a00717de32563b95/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/46d0bb59d63e18c7f2753c8cf7fa59f0/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/46d0bb59d63e18c7f2753c8cf7fa59f0/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/5a62d4808e9fcb6aab1c25b5d8d1987c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/5a62d4808e9fcb6aab1c25b5d8d1987c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ed94f85c18d7a0b30f4844dbd71ba63c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/ed94f85c18d7a0b30f4844dbd71ba63c/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/223eb474a2cfe3f33fb40225f29080ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/223eb474a2cfe3f33fb40225f29080ea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/931ebaad9d3eb9ff4d65349adc384dd0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/931ebaad9d3eb9ff4d65349adc384dd0/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/2917db795f493a5e5d62b3b51a75330f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/2917db795f493a5e5d62b3b51a75330f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/818e40619f3612a2e973b89aa00412ea/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/818e40619f3612a2e973b89aa00412ea/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/91e0804aebcaa388086ff08b582db127/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/91e0804aebcaa388086ff08b582db127/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/87d3c6b691b89367b1946f9c28bac6ac/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/87d3c6b691b89367b1946f9c28bac6ac/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/a8bc85904158e3ce02731141d4224102/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/a8bc85904158e3ce02731141d4224102/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/ceb9400c7ac336133fecdefa06517174/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/ceb9400c7ac336133fecdefa06517174/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/101c87d50f962d59dcf8d6d351bab80a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/101c87d50f962d59dcf8d6d351bab80a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/388c73306e77c7460b49347e066ac214/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/388c73306e77c7460b49347e066ac214/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vladutaki/.gradle/caches/8.9/transforms/2e7c5c0d8c167856ff7d105214f1139d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/vladutaki/.gradle/caches/8.9/transforms/2e7c5c0d8c167856ff7d105214f1139d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/943ab9bebf442085940a5b9bc9349afe/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/943ab9bebf442085940a5b9bc9349afe/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vladutaki/.gradle/caches/8.9/transforms/d10cb391417f98cb02ac46a0415233e1/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/vladutaki/.gradle/caches/8.9/transforms/d10cb391417f98cb02ac46a0415233e1/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.3] /home/vladutaki/.gradle/caches/8.9/transforms/71ffe82a05491a4afe5dca1a67149919/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /home/vladutaki/.gradle/caches/8.9/transforms/71ffe82a05491a4afe5dca1a67149919/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/54556c6b759455636ebb7e518900958a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/54556c6b759455636ebb7e518900958a/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/25164533577a4994ead29d3bc490e6a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/25164533577a4994ead29d3bc490e6a3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/8333439417f9d686b6b5085535a3c146/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/8333439417f9d686b6b5085535a3c146/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/965bf3fc76f102452eeb4aef74768720/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/965bf3fc76f102452eeb4aef74768720/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4b12a0d585c1f665f5969e33d4d7265b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4b12a0d585c1f665f5969e33d4d7265b/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/6420ebb1aa51e9c39b06b433be969c80/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/6420ebb1aa51e9c39b06b433be969c80/transformed/transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e2b6712657771834ddb5af7039676e11/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e2b6712657771834ddb5af7039676e11/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/034beaa579242ce3454b2234b3b86619/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/034beaa579242ce3454b2234b3b86619/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/059631e4df01657266b4b5dea0e0209b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/059631e4df01657266b4b5dea0e0209b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/6b840db2b9609f3a691bb9377ca4441d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/6b840db2b9609f3a691bb9377ca4441d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/c563b8ecfacca9cf441b4bf1d98cd314/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/c563b8ecfacca9cf441b4bf1d98cd314/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/3c24be512bf213b152964523909ada8d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/3c24be512bf213b152964523909ada8d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/0ee8958588afe8dc43f573d96a9eb2d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/0ee8958588afe8dc43f573d96a9eb2d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vladutaki/Desktop/Facultate/EIM/Laborator07/labtasks/Firebase/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/bcc8736c2d6d33dbda739b94906a68b1/transformed/play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:47:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:55:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /home/vladutaki/.gradle/caches/8.9/transforms/526a483877433612db1bb9bec7d600d0/transformed/firebase-messaging-24.1.0/AndroidManifest.xml:61:17-119
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/a099365e2622fa3d78dd572f0e6f80b1/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/6a98304ec1dd889d1b37b0b0dcd6233a/transformed/play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/e41d2067f8036cd1633d19bedf23c9ff/transformed/play-services-measurement-api-22.1.2/AndroidManifest.xml:38:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/07c89c57200ea4f849a81cdedcf9a057/transformed/play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /home/vladutaki/.gradle/caches/8.9/transforms/3c23f01917aec51e90806c9c201f77a2/transformed/play-services-measurement-22.1.2/AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/e1b7430db17c72862537bed936f073f4/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/ec8cca212bda1cae61733bf58796f56c/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/vladutaki/.gradle/caches/8.9/transforms/4462631764ada804ba0aea133195ead6/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /home/vladutaki/.gradle/caches/8.9/transforms/6c6e3e2899020ab5d3965bfff3bb1fac/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/vladutaki/.gradle/caches/8.9/transforms/6ca05f1b1f5e6b01a3d1619e9c62c881/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/vladutaki/.gradle/caches/8.9/transforms/19b9309495095548e76f676d1b09b851/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/vladutaki/.gradle/caches/8.9/transforms/2c694128bd99e477496f1f4f6bf09e87/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#ro.pub.cs.systems.eim.firebase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#ro.pub.cs.systems.eim.firebase.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/vladutaki/.gradle/caches/8.9/transforms/afe0342c9b815b8bc5659213e8a0b785/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/vladutaki/.gradle/caches/8.9/transforms/e1547dc2232852173aee80d3b028df18/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/9ba916aa7e36a521977662600b88af2e/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /home/vladutaki/.gradle/caches/8.9/transforms/49a0ee3581b13a272d9d4489d3bd4757/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/40d76aef7f6d863455b949613e9a04b8/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /home/vladutaki/.gradle/caches/8.9/transforms/71cf86690544beba009a971f12055bc7/transformed/transport-runtime-3.1.9/AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /home/vladutaki/.gradle/caches/8.9/transforms/250f69ed44441f165441f08a890ae419/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

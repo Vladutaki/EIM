@@ -1,0 +1,10 @@
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-support-compat-27.1.1-0 /home/vladutaki/.gradle/caches/transforms-3/51bd6cda0750f7eebeec82f24c563a0f/transformed/support-compat-27.1.1/res
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-support-core-ui-27.1.1-1 /home/vladutaki/.gradle/caches/transforms-3/78043865ae753b0aa8ef84814b1c53b9/transformed/support-core-ui-27.1.1/res
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-appcompat-v7-27.1.1-2 /home/vladutaki/.gradle/caches/transforms-3/aab2664afd7fc29dde17dc3e7ec19ce1/transformed/appcompat-v7-27.1.1/res
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-pngs-3 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/build/generated/res/pngs/debug
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-resValues-4 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/build/generated/res/resValues/debug
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-mergeDebugResources-5 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-mergeDebugResources-6 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-debug-7 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/build/intermediates/merged_res/debug/mergeDebugResources
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-debug-8 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/src/debug/res
+ro.pub.cs.systems.eim.lab06.singlethreadedserver.app-main-9 /home/vladutaki/Desktop/Facultate/EIM/Laborator06/labtasks/SingleThreadedServer/app/src/main/res
